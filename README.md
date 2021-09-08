@@ -10,4 +10,6 @@ Keyloggs Are Stored in keylogs.txt
 ### Installation
 get python https://www.python.org/downloads/ and then
 Just Run start.bat
-on start.bat it will say that
+It Will Run Ignore All Errors except Windows Defender Detects It
+```
+
